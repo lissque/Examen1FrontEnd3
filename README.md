@@ -1,8 +1,36 @@
-# React + Vite
+Examen FrontEnd 3
+Este repositorio contiene la solución para el examen del curso FrontEnd 3. El proyecto está desarrollado utilizando React y muestra un formulario interactivo con validación y visualización de datos en un componente de tarjeta (Card).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Descripción
+Este proyecto implementa una aplicación simple que permite al usuario ingresar su nombre y color favorito en formato HEX. El formulario valida los datos introducidos y, si son correctos, muestra una tarjeta con la información proporcionada.
 
-Currently, two official plugins are available:
+Instalación
+Para configurar el proyecto en tu entorno local, sigue estos pasos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clona el repositorio:
+
+bash
+Copiar código
+git clone https://github.com/lissque/Examen1FrontEnd3.git
+Navega al directorio del proyecto:
+
+bash
+Copiar código
+cd Examen1FrontEnd3
+Instala las dependencias:
+
+bash
+Copiar código
+npm install
+Inicia el servidor de desarrollo:
+
+bash
+Copiar código
+npm start
+Esto abrirá la aplicación en tu navegador predeterminado en http://localhost:3000.
+
+Autora
+Desarrollado por Lissette Quebrada.
+
+Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
